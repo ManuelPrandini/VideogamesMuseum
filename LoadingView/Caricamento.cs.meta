@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e69f9fac7c332142874775a1b11416c
+timeCreated: 1432800790
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - barrabianca: {fileID: 2800000, guid: 47c18110c0fe25248b881022399607b1, type: 3}
+  - barrarossa: {fileID: 2800000, guid: 4ba68f1723a41d0429b1034216c2681c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 851ed7424434837409a047e6b2f99e47
+timeCreated: 1431707821
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Barrier_0
+    21300002: Barrier_1
+    21300004: Barrier_2
+    21300006: Barrier_3
+    21300008: Barrier_4
+    21300010: Barrier_5
+    21300012: Barrier_6
+    21300014: Barrier_7
+    21300016: Barrier_8
+    21300018: Barrier_9
+    21300020: Barrier_10
+    21300022: Barrier_11
+    21300024: Barrier_12
+    21300026: Barrier_13
+    21300028: Barrier_14
+    21300030: Barrier_15
+    21300032: Barrier_16
+    21300034: Barrier_17
+    21300036: Barrier_18
+    21300038: Barrier_19
+    21300040: Barrier_20
+    21300042: Barrier_21
+    21300044: Barrier_22
+    21300046: Barrier_23
+    21300048: Barrier_24
+    21300050: Barrier_25
+    21300052: Barrier_26
+    21300054: Barrier_27
+    21300056: Barrier_28
+    21300058: Barrier_29
+    21300060: Barrier_30
+    21300062: Barrier_31
+    21300064: Barrier_32
+    21300066: Barrier_33
+    21300068: Barrier_34
+    21300070: Barrier_35
+    21300072: Barrier_36
+    21300074: Barrier_37
+    21300076: Barrier_38
+    21300078: Barrier_39
+    21300080: Barrier_40
+    21300082: Barrier_41
+    21300084: Barrier_42
+    21300086: Barrier_43
+    21300088: Barrier_44
+    21300090: Barrier_45
+    21300092: Barrier_46
+    21300094: Barrier_47
+    21300096: Barrier_48
+    21300098: Barrier_49
+    21300100: Barrier_50
+    21300102: Barrier_51
+    21300104: Barrier_52
+    21300106: Barrier_53
+    21300108: Barrier_54
+    21300110: Barrier_55
+    21300112: Barrier_56
+    21300114: Barrier_57
+    21300116: Barrier_58
+    21300118: Barrier_59
+    21300120: Barrier_60
+    21300122: Barrier_61
+    21300124: Barrier_62
+    21300126: Barrier_63
+    21300128: Barrier_64
+    21300130: Barrier_65
+    21300132: Barrier_66
+    21300134: Barrier_67
+    21300136: Barrier_68
+    21300138: Barrier_69
+    21300140: Barrier_70
+    21300142: Barrier_71
+    21300144: Barrier_72
+    21300146: Barrier_73
+    21300148: Barrier_74
+    21300150: Barrier_75
+    21300152: Barrier_76
+    21300154: Barrier_77
+    21300156: Barrier_78
+    21300158: Barrier_79
+    21300160: Barrier_80
+    21300162: Barrier_81
+    21300164: Barrier_82
+    21300166: Barrier_83
+    21300168: Barrier_84
+    21300170: Barrier_85
+    21300172: Barrier_86
+    21300174: Barrier_87
+    21300176: Barrier_88
+    21300178: Barrier_89
+    21300180: Barrier_90
+    21300182: Barrier_91
+    21300184: Barrier_92
+    21300186: Barrier_93
+    21300188: Barrier_94
+    21300190: Barrier_95
+    21300192: Barrier_96
+    21300194: Barrier_97
+    21300196: Barrier_98
+    21300198: Barrier_99
+    21300200: Barrier_100
+    21300202: Barrier_101
+    21300204: Barrier_102
+    21300206: Barrier_103
+    21300208: Barrier_104
+    21300210: Barrier_105
+    21300212: Barrier_106
+    21300214: Barrier_107
+    21300216: Barrier_108
+    21300218: Barrier_109
+    21300220: Barrier_110
+    21300222: Barrier_111
+    21300224: Barrier_112
+    21300226: Barrier_113
+    21300228: Barrier_114
+    21300230: Barrier_115
+    21300232: Barrier_116
+    21300234: Barrier_117
+    21300236: Barrier_118
+    21300238: Barrier_119
+    21300240: Barrier_120
+    21300242: Barrier_121
+    21300244: Barrier_122
+    21300246: Barrier_123
+    21300248: Barrier_124
+    21300250: Barrier_125
+    21300252: Barrier_126
+    21300254: Barrier_127
+    21300256: Barrier_128
+    21300258: Barrier_129
+    21300260: Barrier_130
+    21300262: Barrier_131
+    21300264: Barrier_132
+    21300266: Barrier_133
+    21300268: Barrier_134
+    21300270: Barrier_135
+    21300272: Barrier_136
+    21300274: Barrier_137
+    21300276: Barrier_138
+    21300278: Barrier_139
+    21300280: Barrier_140
+    21300282: Barrier_141
+    21300284: Barrier_142
+    21300286: Barrier_143
+    21300288: Barrier_144
+    21300290: Barrier_145
+    21300292: Barrier_146
+    21300294: Barrier_147
+    21300296: Barrier_148
+    21300298: Barrier_149
+    21300300: Barrier_150
+    21300302: Barrier_151
+    21300304: Barrier_152
+    21300306: Barrier_153
+    21300308: Barrier_154
+    21300310: Barrier_155
+    21300312: Barrier_156
+    21300314: Barrier_157
+    21300316: Barrier_158
+    21300318: Barrier_159
+    21300320: Barrier_160
+    21300322: Barrier_161
+    21300324: Barrier_162
+    21300326: Barrier_163
+    21300328: Barrier_164
+    21300330: Barrier_165
+    21300332: Barrier_166
+    21300334: Barrier_167
+    21300336: Barrier_168
+    21300338: Barrier_169
+    21300340: Barrier_170
+    21300342: Barrier_171
+    21300344: Barrier_172
+    21300346: Barrier_173
+    21300348: Barrier_174
+    21300350: Barrier_175
+    21300352: Barrier_176
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Barrier_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 9
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 18
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 11
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 14
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 18
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 15
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 18
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrier_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 15
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Barrier
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
